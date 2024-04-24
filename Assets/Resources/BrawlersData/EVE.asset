@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: EVE
+  m_EditorClassIdentifier: 
+  BraewlIndex: 54
+  BraewlesIcon: {fileID: 21300000, guid: d6971c04ef427448cb54e575ef3a365b, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: d6971c04ef427448cb54e575ef3a365b, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: EVE
+  TypeBrawles: 0
+  DropType: 7
+  Offense: 2
+  Defense_214BS: 2
+  Untility: 5
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 739d3d77a4b99417a851974195dc7039, type: 3}
+  - {fileID: 8300000, guid: 4ff0ba77f886642a8996274297c62101, type: 3}
+  - {fileID: 8300000, guid: 0a55cff4e71ae48eea24c24c1d730c68, type: 3}
+  - {fileID: 8300000, guid: 7532a5a876240468e9073761cd57845d, type: 3}
+  - {fileID: 8300000, guid: a1d8deff0b8334338b77479c33ff79fb, type: 3}
+  - {fileID: 8300000, guid: d5a307d7da95045a3bdcc3dd07b387b6, type: 3}

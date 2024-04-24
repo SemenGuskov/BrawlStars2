@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: BONNIE
+  m_EditorClassIdentifier: 
+  BraewlIndex: 29
+  BraewlesIcon: {fileID: 21300000, guid: e610fdaf8a5bd471d93e1d93c18908ca, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: e610fdaf8a5bd471d93e1d93c18908ca, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: BONNIE
+  TypeBrawles: 4
+  DropType: 4
+  Offense: 5
+  Defense_214BS: 2
+  Untility: 2
+  BrawelsSounds:
+  - {fileID: 8300000, guid: dd4fad8f5d81d4646bc083f3cffcf195, type: 3}
+  - {fileID: 8300000, guid: 05696f9063f29491384fbc5bf4d110bd, type: 3}
+  - {fileID: 8300000, guid: 831bff713e64f41efa173b8e58b1dec9, type: 3}
+  - {fileID: 8300000, guid: a021e336d91ab428a95a27140eb7655d, type: 3}
+  - {fileID: 8300000, guid: 417390b38ef2b43f59a10bfc5a3a153f, type: 3}
+  - {fileID: 8300000, guid: eb86905225f084d3ca759fa243420c34, type: 3}
+  - {fileID: 8300000, guid: 71e188c4538554deebc7ee7da9d17e13, type: 3}
+  - {fileID: 8300000, guid: afdc7955f523444168b3b5b4d445ec36, type: 3}

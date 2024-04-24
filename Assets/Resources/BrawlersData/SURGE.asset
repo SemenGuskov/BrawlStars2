@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: SURGE
+  m_EditorClassIdentifier: 
+  BraewlIndex: 45
+  BraewlesIcon: {fileID: 21300000, guid: 08b7f8bb5838a4ed9b5d2cb7454272cd, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 08b7f8bb5838a4ed9b5d2cb7454272cd, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: SURGE
+  TypeBrawles: 0
+  DropType: 7
+  Offense: 5
+  Defense_214BS: 3
+  Untility: 1
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 5fa401e0c94d046579d7c225338cf8d6, type: 3}
+  - {fileID: 8300000, guid: 4cae800311f464d3ebc134f27270a989, type: 3}
+  - {fileID: 8300000, guid: d11f8e0975be5483bab86c37987a2ddc, type: 3}
+  - {fileID: 8300000, guid: e87de5baa0c184bae9b1c0a498fb5656, type: 3}
+  - {fileID: 8300000, guid: 492f6832c83d74a51ac6352db47d3872, type: 3}
+  - {fileID: 8300000, guid: cb66376ed97194533a2c24b80eb17121, type: 3}

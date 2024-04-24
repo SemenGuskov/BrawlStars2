@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: 8-BIT
+  m_EditorClassIdentifier: 
+  BraewlIndex: 9
+  BraewlesIcon: {fileID: 21300000, guid: 6266b60a5de994205854d0c9da5362af, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 33134cfce5ab44617b62be521eebe6c9, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: 8-BIT
+  TypeBrawles: 0
+  DropType: 1
+  Offense: 5
+  Defense_214BS: 1
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: f657a6cf894c446bdb6747ba7f0aa1e5, type: 3}
+  - {fileID: 8300000, guid: 6047ab7a3737f4c198f22f57b2b4d601, type: 3}
+  - {fileID: 8300000, guid: 42f1b9c8e37914bbcac0fc2eef2e8a34, type: 3}

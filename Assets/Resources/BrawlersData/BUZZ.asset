@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: BUZZ
+  m_EditorClassIdentifier: 
+  BraewlIndex: 50
+  BraewlesIcon: {fileID: 21300000, guid: c13eea978666440339ddc86070833f86, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: c13eea978666440339ddc86070833f86, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: BUZZ
+  TypeBrawles: 3
+  DropType: 7
+  Offense: 3
+  Defense_214BS: 2
+  Untility: 4
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 8b016da84b24b46c98458e682d6232a5, type: 3}
+  - {fileID: 8300000, guid: 472ca115986994b7d99f1139ab275a15, type: 3}
+  - {fileID: 8300000, guid: 9ad5b8a4b81d74f6f9975372b341c497, type: 3}
+  - {fileID: 8300000, guid: 1a9e57a14469c4f899a876de0bee0bd8, type: 3}
+  - {fileID: 8300000, guid: 2940b58ad435246fea80da54aadd7ed3, type: 3}
+  - {fileID: 8300000, guid: a199bfbb9276e4bcd847a29628ef3904, type: 3}
+  - {fileID: 8300000, guid: 049062ed892a94e40bfed978f4c19ed6, type: 3}
+  - {fileID: 8300000, guid: c7e16697803cd4592985efd92ec7eb2a, type: 3}
+  - {fileID: 8300000, guid: c6345580134b34bc9ac0701627ab7ae2, type: 3}
+  - {fileID: 8300000, guid: 05b27b556ffc54e2a928867afe8d5083, type: 3}

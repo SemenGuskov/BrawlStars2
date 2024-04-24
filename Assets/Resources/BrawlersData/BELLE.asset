@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: BELLE
+  m_EditorClassIdentifier: 
+  BraewlIndex: 49
+  BraewlesIcon: {fileID: 21300000, guid: 6d38a558ef386465991359e8a694d2de, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 6d38a558ef386465991359e8a694d2de, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: BELLE
+  TypeBrawles: 0
+  DropType: 7
+  Offense: 5
+  Defense_214BS: 1
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 0d89e5f9107fa46668b029de3a5bfb0b, type: 3}
+  - {fileID: 8300000, guid: 97d4b93c6a9314e13bfab7d039c6a270, type: 3}
+  - {fileID: 8300000, guid: ee363b5840b55464fb84f1a8ab4a7508, type: 3}
+  - {fileID: 8300000, guid: a944ab8ce53b54bbc88156f4dbfa0cd4, type: 3}
+  - {fileID: 8300000, guid: 18ae5d0ce0c22430399c1c6d9a72f028, type: 3}
+  - {fileID: 8300000, guid: 100c05bcf4e0542e5abb48825078125d, type: 3}
+  - {fileID: 8300000, guid: 0b88c435d177f40e78b863abc7ba33e8, type: 3}
+  - {fileID: 8300000, guid: 09289d0f0e2bb4ddbbe58d6077c84458, type: 3}
+  - {fileID: 8300000, guid: 8df2e9bcb6e0e406683c2e1ab1efbd5a, type: 3}

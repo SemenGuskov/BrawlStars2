@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: ROSA
+  m_EditorClassIdentifier: 
+  BraewlIndex: 15
+  BraewlesIcon: {fileID: 21300000, guid: acfe006de3f02417e9c190ee0a6def0a, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: dbd38448ea053464685c77d3f1801fcd, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: ROSA
+  TypeBrawles: 1
+  DropType: 2
+  Offense: 3
+  Defense_214BS: 5
+  Untility: 1
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 52d2e49e15b7a4c7db698d8df2748e20, type: 3}
+  - {fileID: 8300000, guid: 1344f9cc89c43488ca7ff235b06c7d17, type: 3}
+  - {fileID: 8300000, guid: abe47bf759e7642bf914fd8ba761e6a4, type: 3}
+  - {fileID: 8300000, guid: 2b66997ccb6234295a318059d1558166, type: 3}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: EL PRIMO
+  m_EditorClassIdentifier: 
+  BraewlIndex: 12
+  BraewlesIcon: {fileID: 21300000, guid: dd9f6b5d209c7496ea2cd1967d3f22b9, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: cd2baf7d3e17143028abdd8e8d558eda, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: EL PRIMO
+  TypeBrawles: 1
+  DropType: 2
+  Offense: 2
+  Defense_214BS: 5
+  Untility: 2
+  BrawelsSounds:
+  - {fileID: 8300000, guid: a8c142831c1904271925c98a5f641e1c, type: 3}
+  - {fileID: 8300000, guid: 9ed8b5692b9574360b4fb3a4ea29b4da, type: 3}
+  - {fileID: 8300000, guid: b6b2c478d44ec479b9357dcdb96df842, type: 3}
+  - {fileID: 8300000, guid: cc2ee4908d93942de99e1da7ca35284d, type: 3}
+  - {fileID: 8300000, guid: 4aec21916c2f947a8aaa2cf4e9041ddc, type: 3}
+  - {fileID: 8300000, guid: 22c3df8e9d12b403d9b337221b2949f1, type: 3}
+  - {fileID: 8300000, guid: 236f3b60780cb4936bc390192d9b5e9f, type: 3}

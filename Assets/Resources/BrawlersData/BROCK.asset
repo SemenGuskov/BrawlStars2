@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: BROCK
+  m_EditorClassIdentifier: 
+  BraewlIndex: 5
+  BraewlesIcon: {fileID: 21300000, guid: 4bd69d8420ffd442482ab77a420decd1, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: a917da87ef01048d2bbf7c56a7aee9d1, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: BROCK
+  TypeBrawles: 0
+  DropType: 1
+  Offense: 5
+  Defense_214BS: 2
+  Untility: 2
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 26dc2743d10044373a71f592ac292690, type: 3}
+  - {fileID: 8300000, guid: 9e6376321ea0f40b297aa51465eee77b, type: 3}
+  - {fileID: 8300000, guid: 3e022a08a669947aeadea3d6fb0f47ea, type: 3}
+  - {fileID: 8300000, guid: d71b825c311b44e4582ba32be28fafe0, type: 3}
+  - {fileID: 8300000, guid: 537d810505e084b94a7aff0a8c74f5a0, type: 3}
+  - {fileID: 8300000, guid: d4b4bf4b3978b44be81a711391d006b8, type: 3}
+  - {fileID: 8300000, guid: 7262def04508c41b09da17f9bf3b94f1, type: 3}

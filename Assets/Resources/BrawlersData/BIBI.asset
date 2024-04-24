@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: BIBI
+  m_EditorClassIdentifier: 
+  BraewlIndex: 23
+  BraewlesIcon: {fileID: 21300000, guid: c31acfbeb6a124714bc19ee218241588, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 3d181207eb89d497a87a6e67eabd0674, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: BIBI
+  TypeBrawles: 0
+  DropType: 4
+  Offense: 3
+  Defense_214BS: 3
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: b4b4d43690bc14849bf7edbfbeb5aaee, type: 3}
+  - {fileID: 8300000, guid: 7602e192f74c44c8c85a613fe49af9e0, type: 3}
+  - {fileID: 8300000, guid: 793ca839359f0424395bac6fc97a5d23, type: 3}
+  - {fileID: 8300000, guid: 9041dbb4eb73f4f11906f154cccb9639, type: 3}
+  - {fileID: 8300000, guid: e12f77ecc3959432dac2b850a797bef7, type: 3}
+  - {fileID: 8300000, guid: d0097d8af1ef640ec98c9829b3a685ea, type: 3}

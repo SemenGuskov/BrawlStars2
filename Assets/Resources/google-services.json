@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "701897158435",
+    "project_id": "box-simulator-with-brawlers",
+    "storage_bucket": "box-simulator-with-brawlers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701897158435:android:ddfa9b8062588e9a65a696",
+        "android_client_info": {
+          "package_name": "com.boxsim.brawlersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701897158435-a0jbvs8jip6hm1i1en8u4j95ro27m14o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAba2o09jd22bpz0J1Md1M5lsW1dfcp1Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701897158435-a0jbvs8jip6hm1i1en8u4j95ro27m14o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701897158435-j1iliqfevipjath15gtihb417knv2dqt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.boxsim.brawlersapp",
+                "app_store_id": "1640640622"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

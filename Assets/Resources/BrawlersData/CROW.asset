@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: CROW
+  m_EditorClassIdentifier: 
+  BraewlIndex: 39
+  BraewlesIcon: {fileID: 21300000, guid: 62ef76cffaa8d4db9946ec67379eea4b, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 82845dd73a18941c2b29b8846acef5ea, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: CROW
+  TypeBrawles: 3
+  DropType: 6
+  Offense: 5
+  Defense_214BS: 1
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 06831d5f2a5af4d77890059789a87a88, type: 3}
+  - {fileID: 8300000, guid: 736dc8210f48e4cdda758600f0be6c99, type: 3}
+  - {fileID: 8300000, guid: ca23b03b376154b02be8ec2655c4802e, type: 3}

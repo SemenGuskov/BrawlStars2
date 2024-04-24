@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: SPROUT
+  m_EditorClassIdentifier: 
+  BraewlIndex: 35
+  BraewlesIcon: {fileID: 21300000, guid: cc7dccfbe301f4997a7cfc1cb57ab6bf, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: cc7dccfbe301f4997a7cfc1cb57ab6bf, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: SPROUT
+  TypeBrawles: 2
+  DropType: 5
+  Offense: 3
+  Defense_214BS: 2
+  Untility: 4
+  BrawelsSounds:
+  - {fileID: 8300000, guid: ea6073ee6e9d74739bdd121926593c0c, type: 3}
+  - {fileID: 8300000, guid: c5e22d46dfbf94bb792adf92d22c17ae, type: 3}
+  - {fileID: 8300000, guid: 9a0276359060e40d59f0c9b684a826ef, type: 3}
+  - {fileID: 8300000, guid: 0d2d013e47ca34858a5245820d42b97c, type: 3}

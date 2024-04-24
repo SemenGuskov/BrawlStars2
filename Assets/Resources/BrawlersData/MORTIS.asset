@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: MORTIS
+  m_EditorClassIdentifier: 
+  BraewlIndex: 30
+  BraewlesIcon: {fileID: 21300000, guid: 594114f8f83154721b6fd09675ffe5cf, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 02d75c090e9c34236a56bef3cf565112, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: MORTIS
+  TypeBrawles: 3
+  DropType: 5
+  Offense: 2
+  Defense_214BS: 3
+  Untility: 4
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 6abf15f91a283450db2bdf99ebee57aa, type: 3}
+  - {fileID: 8300000, guid: 13fa9d9e1fab0437da3969f61156afe3, type: 3}
+  - {fileID: 8300000, guid: c6122e6005d5349098585e4643b02609, type: 3}
+  - {fileID: 8300000, guid: 9045a9c580f964497ab55da989c5d066, type: 3}

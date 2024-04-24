@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: ASH
+  m_EditorClassIdentifier: 
+  BraewlIndex: 51
+  BraewlesIcon: {fileID: 21300000, guid: f10c3c57aa78540b5a1afcafb4697ebb, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: f10c3c57aa78540b5a1afcafb4697ebb, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: ASH
+  TypeBrawles: 1
+  DropType: 7
+  Offense: 5
+  Defense_214BS: 3
+  Untility: 1
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 5f8915fd99ab745a2837542ea5167e59, type: 3}
+  - {fileID: 8300000, guid: 8dc4bc172af6f4424af27e0cfcd3631a, type: 3}
+  - {fileID: 8300000, guid: 11ea18afe136d4824aec86de0efb2463, type: 3}
+  - {fileID: 8300000, guid: c4ea6801b7da242ec994b1d516790d8e, type: 3}

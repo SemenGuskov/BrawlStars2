@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: BULL
+  m_EditorClassIdentifier: 
+  BraewlIndex: 3
+  BraewlesIcon: {fileID: 21300000, guid: 9778c631d35d548aa99d81887b98a2d8, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: f68bedaea6ed54e18be0f4b66362dfd0, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: BULL
+  TypeBrawles: 1
+  DropType: 1
+  Offense: 3
+  Defense_214BS: 4
+  Untility: 2
+  BrawelsSounds:
+  - {fileID: 8300000, guid: f991160dea33f4429a177170665b4d0a, type: 3}
+  - {fileID: 8300000, guid: 34a46103e75b64fa6abfa2ecc91ceb63, type: 3}
+  - {fileID: 8300000, guid: 7bcbfdf51ca49401bab8730997be7514, type: 3}

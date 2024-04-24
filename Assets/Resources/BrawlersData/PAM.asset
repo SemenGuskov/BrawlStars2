@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: PAM
+  m_EditorClassIdentifier: 
+  BraewlIndex: 21
+  BraewlesIcon: {fileID: 21300000, guid: 59106792a234d4acfa7f3d955b2a0486, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 996c4f5dbd86c4ee6ae36c9cbca986ff, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: PAM
+  TypeBrawles: 2
+  DropType: 4
+  Offense: 2
+  Defense_214BS: 4
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 56904baea602d47e2a2ea1f13a874ccc, type: 3}
+  - {fileID: 8300000, guid: c8517295ed62040838b7b3d01a99ac16, type: 3}
+  - {fileID: 8300000, guid: 8ee71ce68ff244ed2a152368ba005bcc, type: 3}
+  - {fileID: 8300000, guid: 4bf0df11974f54782bfbf74dec0378cf, type: 3}

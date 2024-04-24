@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: TICK
+  m_EditorClassIdentifier: 
+  BraewlIndex: 8
+  BraewlesIcon: {fileID: 21300000, guid: 2c262c7cd62a348eaa9f4f2221fab350, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 18d359a3d1bd44d4cbffeea7dceba692, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: TICK
+  TypeBrawles: 0
+  DropType: 1
+  Offense: 5
+  Defense_214BS: 1
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: f2a49fa45e5cf49aebef1a3d5825f3e6, type: 3}
+  - {fileID: 8300000, guid: 7ab26ec8d0d134d7192d679b7820e614, type: 3}
+  - {fileID: 8300000, guid: 9f1df587e6de04c048615886d206d406, type: 3}

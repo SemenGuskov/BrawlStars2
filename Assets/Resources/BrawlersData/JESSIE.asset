@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: JESSIE
+  m_EditorClassIdentifier: 
+  BraewlIndex: 4
+  BraewlesIcon: {fileID: 21300000, guid: 228f0efa80b5e45ea9b93fdefb309e8d, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 7a4725f7c8e164729b288fca4dcc0b5d, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: JESSIE
+  TypeBrawles: 0
+  DropType: 1
+  Offense: 3
+  Defense_214BS: 2
+  Untility: 4
+  BrawelsSounds:
+  - {fileID: 8300000, guid: eb5e93244a5804af2b2fb3604457a49a, type: 3}
+  - {fileID: 8300000, guid: 906f47813962748e5a9c0c5c03e3f943, type: 3}
+  - {fileID: 8300000, guid: ce6b113f9289d43ee8af790a18448729, type: 3}
+  - {fileID: 8300000, guid: 3dc6e35f8678f426c97b79cb85767b9b, type: 3}
+  - {fileID: 8300000, guid: 10f0d41fdb4d84e5f9341062bfc02c13, type: 3}

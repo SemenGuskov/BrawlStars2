@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: TARA
+  m_EditorClassIdentifier: 
+  BraewlIndex: 31
+  BraewlesIcon: {fileID: 21300000, guid: 117516c5b218b4a47aee2e7e3ded6bcf, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: f537e6334d6f54fa0a651d2331c0db3a, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: TARA
+  TypeBrawles: 0
+  DropType: 5
+  Offense: 2
+  Defense_214BS: 2
+  Untility: 5
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 7bc72db4561c44ef3aa8ca48a716f1be, type: 3}
+  - {fileID: 8300000, guid: e1c9b6ff5dcdd43d0aa1d1a2c67b1d59, type: 3}
+  - {fileID: 8300000, guid: 435f769fc8217487cbaad74c1d782283, type: 3}

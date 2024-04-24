@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: PENNY
+  m_EditorClassIdentifier: 
+  BraewlIndex: 17
+  BraewlesIcon: {fileID: 21300000, guid: 39a3f84b8bdc1497982391a4692f228e, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 5bf6e8e26ea1e4b4a86949620f8ca26e, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: PENNY
+  TypeBrawles: 0
+  DropType: 3
+  Offense: 3
+  Defense_214BS: 2
+  Untility: 4
+  BrawelsSounds:
+  - {fileID: 8300000, guid: c020a8dfe5d0f4ddcb75217d52eae22a, type: 3}
+  - {fileID: 8300000, guid: 3b426cc66e44a4c8d9866ad4823d3158, type: 3}
+  - {fileID: 8300000, guid: 87bdb6ea6b2b14b5a93ef7045f699788, type: 3}

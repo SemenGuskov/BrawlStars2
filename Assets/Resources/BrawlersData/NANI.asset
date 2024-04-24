@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: NANI
+  m_EditorClassIdentifier: 
+  BraewlIndex: 25
+  BraewlesIcon: {fileID: 21300000, guid: 719c50dc298e142f68772b39e0012516, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 719c50dc298e142f68772b39e0012516, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: NANI
+  TypeBrawles: 0
+  DropType: 4
+  Offense: 5
+  Defense_214BS: 1
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 8a81ae6947e5947bfab8603488def606, type: 3}
+  - {fileID: 8300000, guid: 50459a8678a2c400e893c9d1328ccb52, type: 3}
+  - {fileID: 8300000, guid: db0a6085884bd40f79edb36690d44193, type: 3}
+  - {fileID: 8300000, guid: 80e0ffd8861ee4827877f88e49814f2a, type: 3}

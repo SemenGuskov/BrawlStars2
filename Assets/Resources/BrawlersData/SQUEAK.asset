@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: SQUEAK
+  m_EditorClassIdentifier: 
+  BraewlIndex: 37
+  BraewlesIcon: {fileID: 21300000, guid: 0d083c8b3758a479da984f0ca8603370, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 0d083c8b3758a479da984f0ca8603370, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: SQUEAK
+  TypeBrawles: 0
+  DropType: 5
+  Offense: 4
+  Defense_214BS: 2
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: d8b4386cfe47d4ac5a723b2167fe4e38, type: 3}
+  - {fileID: 8300000, guid: 427aec444b8074d78a679bd268d94d29, type: 3}
+  - {fileID: 8300000, guid: 4e3e1595a05be4b358d10d3fbf3db149, type: 3}
+  - {fileID: 8300000, guid: 754130d15b1374873a1e6fc5dc20b512, type: 3}
+  - {fileID: 8300000, guid: 206c9bd5736954e82b17661e19403a33, type: 3}
+  - {fileID: 8300000, guid: b83f29913cca0474e949a7e0486d01b6, type: 3}
+  - {fileID: 8300000, guid: 1dc7e79d911cf46afa08962fc0e00db5, type: 3}
+  - {fileID: 8300000, guid: 53293c1a7411249fd95a5a93d734b9dd, type: 3}

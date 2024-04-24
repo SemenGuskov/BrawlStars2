@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: LEON
+  m_EditorClassIdentifier: 
+  BraewlIndex: 40
+  BraewlesIcon: {fileID: 21300000, guid: 46d536f5d5d194f8b818efbfc2d582b8, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 02b475524aa2d4e2190549a10233bfaf, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: LEON
+  TypeBrawles: 3
+  DropType: 6
+  Offense: 4
+  Defense_214BS: 2
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: c3e5b63568c6f4ef3934673195ca2bd2, type: 3}
+  - {fileID: 8300000, guid: a8dacc99f9c8747929b8e68849f7d24d, type: 3}
+  - {fileID: 8300000, guid: 473cd117181db45deba23cc852959067, type: 3}
+  - {fileID: 8300000, guid: e2544cb1cfbcc4fbe9f5c52b080a51f6, type: 3}
+  - {fileID: 8300000, guid: 3dc24892ed23348a9a48d78c84f6beff, type: 3}

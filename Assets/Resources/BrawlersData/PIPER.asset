@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: PIPER
+  m_EditorClassIdentifier: 
+  BraewlIndex: 20
+  BraewlesIcon: {fileID: 21300000, guid: fd1655bc5ddbe4a11beb59f22c88a8a8, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: 9d264ed49c4bf4d418695ee623d383fe, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: ' PIPER'
+  TypeBrawles: 0
+  DropType: 4
+  Offense: 5
+  Defense_214BS: 1
+  Untility: 3
+  BrawelsSounds:
+  - {fileID: 8300000, guid: a8b79787f3fab4be3a6abb25020bdd5d, type: 3}
+  - {fileID: 8300000, guid: 9767f591229aa44468ebaa4e5cb391a8, type: 3}
+  - {fileID: 8300000, guid: 6e731bb4760684215bb11f4e4d3e28a9, type: 3}
+  - {fileID: 8300000, guid: dad6a1eb477e6427bb18d82f1bd73746, type: 3}

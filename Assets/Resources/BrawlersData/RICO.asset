@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69663ef88a5bb454bb017a7bb6d29a8d, type: 3}
+  m_Name: RICO
+  m_EditorClassIdentifier: 
+  BraewlIndex: 16
+  BraewlesIcon: {fileID: 21300000, guid: e39350a3624614a06a8e8cc3fb1bcb93, type: 3}
+  BraewlesSkin:
+  - {fileID: 21300000, guid: d2268f839751d4c7c8a90ed3fda1f94f, type: 3}
+  BraewlesSkinIndexSelected: 0
+  NameBrawles: RICO
+  TypeBrawles: 0
+  DropType: 3
+  Offense: 5
+  Defense_214BS: 2
+  Untility: 2
+  BrawelsSounds:
+  - {fileID: 8300000, guid: 792b7e433981a4bbcb78dc789aee7408, type: 3}
+  - {fileID: 8300000, guid: 8cadb8e047c2c4144bf641050798939e, type: 3}
+  - {fileID: 8300000, guid: c4e2a4239e1a140cc824c0cf56822404, type: 3}
+  - {fileID: 8300000, guid: af627538783a545909bbec79120d7699, type: 3}
+  - {fileID: 8300000, guid: bbb598a38dc214138bc2357ef3c2be2d, type: 3}
+  - {fileID: 8300000, guid: 25a188cdf0e1e49538af00625bf86e07, type: 3}
